@@ -1,4 +1,6 @@
 ##Chrome Extension Boilerplate with React and Redux
-#### NPM Install
-#### Use gulp watch when developing
-#### Edit manifest.json
+#### With help from: https://github.com/tshaddix/react-chrome-redux
+##### NPM Install
+##### Edit manifest.json
+##### Use gulp watch when developing
+
